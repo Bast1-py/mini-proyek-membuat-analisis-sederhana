@@ -1,5 +1,8 @@
 # mini proyek-membuat analisis sederhana
-Mr. Cho adalah seorang data scientist yang ingin menjual properti rumah miliknya di Bengaluru. Sebagai seorang data scientist, ia ingin memprediksi harga rumah di Bengaluru untuk membantunya membuat keputusan yang lebih tepat dalam menentukan harga. Dengan menggunakan metode CRISP-DM, bantu Mr. Cho untuk melakukan tahapan Business Understanding hingga Data Preparation.     
+Mr. Cho adalah seorang data scientist yang ingin menjual properti rumah miliknya di Bengaluru. Sebagai seorang data scientist, ia ingin memprediksi harga rumah di Bengaluru untuk membantunya membuat keputusan yang lebih tepat dalam menentukan harga. Dengan menggunakan metode CRISP-DM, bantu Mr. Cho untuk melakukan tahapan Business Understanding hingga Data Preparation.
+
+Sumber dataset:
+https://www.kaggle.com/datasets/shantanudhakadd/house-prediction-dataset 
 
 
 Minimum requirement Pengerjaan:  
